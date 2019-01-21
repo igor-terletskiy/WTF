@@ -1,4 +1,4 @@
-###WTF(What The Film)
+### WTF(What The Film)
 
 ----
 
@@ -12,13 +12,13 @@ When choosing a particular film, you have the opportunity to familiarize yoursel
 
 ----
 
-####Technology
+#### Technology
 
 -To store basic information about movies use - Firebase.
 -Your app provides known 2D images, and ARKit tells you when and where those images are detected during an AR session.
 
 ----
 
-####Demonstration of the application
+#### Demonstration of the application
 
 https://www.youtube.com/watch?v=x4fdZlfYFLg
